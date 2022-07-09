@@ -1,4 +1,4 @@
-### Hello World! I'm Angel ![tohru](https://user-images.githubusercontent.com/105449326/178088621-7b576917-89e6-46ab-929d-62dc53028e94.gif)
+### Hello World! I'm Angel 
 
 
 Welcome to my GitHub! 
