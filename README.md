@@ -1,4 +1,5 @@
-### Hello World! I'm Angel ![image](https://user-images.githubusercontent.com/105449326/178087918-5a2e8a2a-35bc-43d6-8bcd-51f60909daa5.png)
+### Hello World! I'm Angel ![image](https://user-images.githubusercontent.com/105449326/178087994-b3e58490-ecf0-4968-9577-1c9114bc1ea0.png)
+
 
 Welcome to my GitHub! 
 
