@@ -1,5 +1,5 @@
-### Hello World! I'm Angel 
-![tohru-unscreen](https://user-images.githubusercontent.com/105449326/178089365-a76f4ae9-64d4-4e11-b505-0e7a89e20d2f.gif)
+### Hello World! I'm Angel      
+
 
 
 Welcome to my GitHub! 
@@ -11,7 +11,7 @@ Instagram: https://www.instagram.com/angelmor_a/
 What i know: 
   -I learning programming in C++ 
   
-![c++2](https://user-images.githubusercontent.com/105449326/178089199-dfcf1f2c-dd08-4a6f-bca4-e62440c35a66.png)
+![c++3](https://user-images.githubusercontent.com/105449326/178089395-63ef96ea-4648-4b92-8940-0a42b24f8f3f.png)
 
 
     
