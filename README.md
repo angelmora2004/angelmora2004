@@ -1,6 +1,4 @@
-### Hello World! I'm Angel ![senku1](https://user-images.githubusercontent.com/105449326/178088307-4ddc968d-41f0-4980-8ef4-f593fb5673c5.jpg)
-
-
+### Hello World! I'm Angel ![tohrureducido](https://user-images.githubusercontent.com/105449326/178088565-a940e4bc-2001-4287-becf-45076d84ea64.gif)
 
 Welcome to my GitHub! 
 
