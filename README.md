@@ -1,7 +1,8 @@
-### Hello World! I'm Angel ![image](https://user-images.githubusercontent.com/105449326/178087994-b3e58490-ecf0-4968-9577-1c9114bc1ea0.png)
+### Hello World! I'm Angel 
 
 
-Welcome to my GitHub! 
+Welcome to my GitHub! ![NimblePoliteAntbear-max-1mb](https://user-images.githubusercontent.com/105449326/178088040-79c819cd-9ac2-40f1-9c90-8bd4d639edc7.gif)
+
 
 
 
