@@ -6,9 +6,21 @@ Welcome to my GitHub!  ![tohru-unscreen (1)](https://user-images.githubuserconte
 
 ***Who i am?***   
 Let me explain this with a code of c++
-
-![code](https://user-images.githubusercontent.com/105449326/178115022-ae86aa68-45ed-490d-8e93-2f0bc6789f00.PNG)
-
+```cpp
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"-My Name is Angel Mora 🩸";
+    cout<<"\n-I'm 18 years old ⚒";
+    cout<<"\nI live in Ecuador 🇪🇨";
+    cout<<"\nStudent of Information technology engineer in PUCESE";
+    cout<<"\nSkills";
+    cout<<"\nI program in c++ :)";
+    cout<<"\nwith the passage of time this code will improve";
+    return 0;
+}
+```
 
 //***Social Networks***
 
@@ -31,7 +43,7 @@ Discord: @Angel0800#2369
 
 <!--
 **angelmora2004/angelmora2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![code](https://user-images.githubusercontent.com/105449326/178115022-ae86aa68-45ed-490d-8e93-2f0bc6789f00.PNG)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
