@@ -17,7 +17,7 @@ Let me explain this with a code of c++
 
 Facebook: https://www.facebook.com/angeljr07ec/
 Instagram: https://www.instagram.com/angelmor_a/
-Discord: Angel0800#2369
+Discord: @Angel0800#2369
 
 //***What i know:***
 
