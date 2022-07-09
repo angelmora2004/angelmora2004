@@ -3,7 +3,7 @@
 
 Welcome to my GitHub! 
 
-![bannerreal](https://user-images.githubusercontent.com/105449326/178088847-27743e27-8493-41e4-ae46-e5aed677c577.png)
+![bannerreal1](https://user-images.githubusercontent.com/105449326/178089054-5195b254-8e94-4e3e-b6b2-7c69c4a59b50.png)
 Facebook: https://www.facebook.com/angeljr07ec/
 Instagram: https://www.instagram.com/angelmor_a/
 
