@@ -3,13 +3,14 @@
 
 Welcome to my GitHub! 
 
-![bannerreal1](https://user-images.githubusercontent.com/105449326/178089054-5195b254-8e94-4e3e-b6b2-7c69c4a59b50.png)
+
 Facebook: https://www.facebook.com/angeljr07ec/
 Instagram: https://www.instagram.com/angelmor_a/
 
 What i know: 
   -I learning programming in C++ 
-  ![c++](https://user-images.githubusercontent.com/105449326/178088967-6728c5e2-5efc-4468-b651-7b83626210c1.png)
+![c++1](https://user-images.githubusercontent.com/105449326/178089179-0af173fc-025b-40da-a4c4-f71f40939b37.png)
+
 
     
 
