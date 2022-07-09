@@ -9,7 +9,8 @@ Instagram: https://www.instagram.com/angelmor_a/
 
 What i know: 
   -I learning programming in C++ 
-![c++1](https://user-images.githubusercontent.com/105449326/178089179-0af173fc-025b-40da-a4c4-f71f40939b37.png)
+  
+![c++2](https://user-images.githubusercontent.com/105449326/178089199-dfcf1f2c-dd08-4a6f-bca4-e62440c35a66.png)
 
 
     
