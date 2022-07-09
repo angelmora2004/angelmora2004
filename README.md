@@ -9,9 +9,11 @@ Facebook: https://www.facebook.com/angeljr07ec/
 Instagram: https://www.instagram.com/angelmor_a/
 
 What i know: 
-  -I learning programming in C++ 
+
+-I learning programming in C++ 
   
-![c++3](https://user-images.githubusercontent.com/105449326/178089395-63ef96ea-4648-4b92-8940-0a42b24f8f3f.png)
+![c++3](https://user-images.githubusercontent.com/105449326/178089734-d284f8a8-e117-4708-bcaa-6f6b736e9dd0.png)
+
 
 
     
