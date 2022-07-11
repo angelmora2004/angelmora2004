@@ -5,7 +5,7 @@
 Welcome to my GitHub!  ![tohru-unscreen (1)](https://user-images.githubusercontent.com/105449326/178091036-b0f5bf17-c707-46df-abaa-2d8ce1223ff1.gif)
 
 ***Who i am?***   
-Let me explain this with a code of c++
+
 ```cpp
 #include<iostream>
 using namespace std;
