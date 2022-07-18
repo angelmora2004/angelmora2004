@@ -31,7 +31,7 @@ Facebook: https://www.facebook.com/angeljr07ec/
 Instagram: https://www.instagram.com/angelmor_a/
 Discord: @Angel0800#2369
 
-//***What i know:***
+//***Skills:***
 
 - I am learning programming in C++ 
   
