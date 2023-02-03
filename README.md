@@ -1,5 +1,5 @@
-### Hello World! I'm Angel  ![ilulu-unscreen (3)](https://user-images.githubusercontent.com/105449326/178090958-bd06a702-a5e0-425f-ade4-dd891637f676.gif)
-// ***Information technology engineer***  
+### Hello World! I'm Angel  
+// ***Software Dev.***  
 
 
 Welcome to my GitHub! 
@@ -12,24 +12,12 @@ using namespace std;
 int main()
 {
     cout<<"-My Name is Angel Mora 🩸";
-    cout<<"\n-I'm 18 years old ⚒";
-    cout<<"\nI live in Ecuador 🇪🇨";
-    cout<<"\nStudent of Information technology engineer in PUCESE";
+    cout<<"\n-I'm 19 years old ⚒";
     cout<<"\nSkills";
     cout<<"\nI program in c++ :)";
-    cout<<"\nwith the passage of time this code will improve";
     return 0;
 }
 ```
-
-//***Social Networks***
-
-![banner1-removebg-previewnew](https://user-images.githubusercontent.com/105449326/178113066-7b0bc860-75d2-4641-af6a-aee58320a1e1.png)
-
-
-Facebook: https://www.facebook.com/angeljr07ec/
-Instagram: https://www.instagram.com/angelmor_a/
-Discord: @Angel0800#2369
 
 //***Skills:***
 
