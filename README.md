@@ -1,10 +1,9 @@
 ### Hello World! I'm Angel  
-// ***Software Dev.***  
+***Software Dev.***  
 
 
 Welcome to my GitHub! 
 
-***Who i am?***   
 
 ```cpp
 #include<iostream>
@@ -13,21 +12,23 @@ int main()
 {
     cout<<"-My Name is Angel Mora 🩸";
     cout<<"\n-I'm 19 years old ⚒";
-    cout<<"\nSkills";
-    cout<<"\nI program in c++ :)";
     return 0;
 }
 ```
+***Stats:***
 
-//***Skills:***
-
-- I am learning programming in C++ 
-  
-![c++3](https://user-images.githubusercontent.com/105449326/178089734-d284f8a8-e117-4708-bcaa-6f6b736e9dd0.png)
+![Angel GitHub stats](https://github-readme-stats.vercel.app/api?username=angelmora2004&theme=github_dark&show_icons=true)
 
 
+***Skills:***
 
-    
+<img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<br />         
 
 <!--
 **angelmora2004/angelmora2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
