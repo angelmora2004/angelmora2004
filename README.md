@@ -18,8 +18,9 @@ int main()
 ***Stats:***
 
 ![Angel GitHub stats](https://github-readme-stats.vercel.app/api?username=angelmora2004&theme=github_dark&show_icons=true)
-<br />
-<br />
+
+#
+
 ***Skills:***
 
 <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -28,7 +29,6 @@ int main()
 <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        
 
 <!--
 **angelmora2004/angelmora2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
