@@ -7,7 +7,7 @@
 ## Software Developer
 
 
-### :man_technologist: Stats:
+### :trident: Stats:
 
 ![Angel GitHub stats](https://github-readme-stats.vercel.app/api?username=angelmora2004&theme=github_dark&show_icons=true\&rank_icon=github)
 
