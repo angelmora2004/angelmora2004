@@ -9,7 +9,7 @@
 
 ### :man_technologist: Stats:
 
-![Angel GitHub stats](https://github-readme-stats.vercel.app/api?username=angelmora2004&theme=github_dark&show_icons=true)
+![Angel GitHub stats](https://github-readme-stats.vercel.app/api?username=angelmora2004&theme=github_dark&show_icons=true\&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelmora2004&hide_progress=true&theme=github_dark)
 ---
