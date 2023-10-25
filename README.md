@@ -1,39 +1,36 @@
 <p align="center">
-<img class="imagen" width="500vh" height="300vh" src="https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif" />    
+<img class="imagen" width="1200px" height="350px" src="https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif" />    
 </p>
 
+<h1 align="center">
+    > Hello World! I'm Angel
+</h1>  
 
-### Hello World! I'm Angel  
-***Software Dev.***  
+## Software Developer
 
 
-Welcome to my GitHub! 
-
-
-```cpp
-#include<iostream>
-using namespace std;
-int main()
-{
-    cout<<"-My Name is Angel Mora 🩸";
-    cout<<"\n-I'm 19 years old ⚒";
-    return 0;
-}
-```
-***Stats:***
+### :man_technologist: Stats:
 
 ![Angel GitHub stats](https://github-readme-stats.vercel.app/api?username=angelmora2004&theme=github_dark&show_icons=true)
 
-#
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelmora2004&hide_progress=true&theme=github_dark)
+---
 
-***Skills:***
+### :hammer_and_wrench: Languages and Tools:
 
-<img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="cplusplus" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="csharp" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="css" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="html" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="javascript" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="react" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="java" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="dart" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align="left" alt="flutter" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+          
+          
+          
+          
 
 <!--
 **angelmora2004/angelmora2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
