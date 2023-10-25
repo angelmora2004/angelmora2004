@@ -1,10 +1,8 @@
 <p align="center">
-<img class="imagen" width="900px" height="350px" src="https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif" />    
+<img class="imagen" width="800px" height="350px" src="https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif" />    
 </p>
 
-<h1 align="center">
-    > Hello World! I'm Angel
-</h1>  
+<h1 align="center"> > Hello World! I'm Angel </h1>
 
 ## Software Developer
 
