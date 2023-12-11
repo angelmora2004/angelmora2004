@@ -7,14 +7,14 @@
 ## Software Developer
 
 
-### :trident: Stats:
+### 🔱 Stats:
 
 ![Angel GitHub stats](https://github-readme-stats.vercel.app/api?username=angelmora2004&theme=github_dark&show_icons=true\&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelmora2004&hide_progress=true&theme=github_dark)
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <img align="left" alt="cplusplus" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="csharp" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
