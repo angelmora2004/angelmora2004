@@ -8,8 +8,8 @@
 
 
 ### 🔱 Stats:
-<img height=185 align="left" src="https://github-readme-stats.vercel.app/api?username=angelmora2004&theme=github_dark&show_icons=true\&rank_icon=github&hide_border=true" />
-<img height=185 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelmora2004&hide_progress=true&theme=github_dark&hide_border=true" />
+<img height=170 align="left" src="https://github-readme-stats.vercel.app/api?username=angelmora2004&theme=github_dark&show_icons=true\&rank_icon=github&hide_border=true" />
+<img height=170 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelmora2004&hide_progress=true&theme=github_dark&hide_border=true" />
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=angelmora2004&theme=github-dark-blue&hide_border=true&card_width=479" alt="GitHub Streak" />
 </div>
