@@ -4,7 +4,7 @@
 
 <h1 align="center"> > Hello World! I'm Angel </h1>
 
-## Software Developer
+## Web Developer
 
 
 ### 🔱 Stats:
@@ -18,5 +18,5 @@
 
 ### 🛠️ Languages and Tools:          
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,java,dart,flutter)](https://skillicons.dev)          
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,java)](https://skillicons.dev)          
  
