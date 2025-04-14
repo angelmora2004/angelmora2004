@@ -1,7 +1,3 @@
-<p align="center">
-<img class="imagen" width="900px" height="300px" src="https://i.pinimg.com/originals/a3/15/46/a3154699746256e5ab55bbe2164c286f.gif" />    
-</p>
-
 <h1 align="center"> > Hello World! I'm Angel </h1>
 
 ## Web Developer
