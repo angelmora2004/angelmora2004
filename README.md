@@ -1,6 +1,6 @@
 <h1 align="center"> > Hello World! I'm Angel </h1>
 
-### Web Developer
+### Frontend Web Developer
 
 ### 🔱 Stats:
 <img height=170 align="left" src="https://github-readme-stats.vercel.app/api?username=angelmora2004&theme=swift&show_icons=true\&rank_icon=github&hide_border=true" />
