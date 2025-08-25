@@ -13,5 +13,5 @@
 
 ### 🛠️ Languages and Tools:          
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,astro,tailwind,java)](https://skillicons.dev)          
+[![My Skills](https://skillicons.dev/icons?i=js,react,astro,tailwind,java,nodejs)](https://skillicons.dev)          
  
