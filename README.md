@@ -3,10 +3,8 @@
 ### Frontend Web Developer
 
 ### 🔱 Stats:
-<img height=170 align="left" src="https://github-readme-stats.vercel.app/api?username=angelmora2004&theme=swift&show_icons=true\&rank_icon=github&hide_border=true" />
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=angelmora2004&theme=swift&hide_border=true" alt="GitHub Streak" /></a>
-</div>
+<img height=500 align="left" src="https://github-readme-stats.vercel.app/api?username=angelmora2004&theme=swift&show_icons=true\&rank_icon=github&hide_border=true" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=angelmora2004&theme=swift&hide_border=true" alt="GitHub Streak" /></a>
 
 ---
 
