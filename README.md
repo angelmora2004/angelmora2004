@@ -1,6 +1,6 @@
 <img width="1260" height="400" alt="4a445e13c781ae36ee7fbedc2e8364ce" src="https://github.com/user-attachments/assets/00713d7a-2e7e-488f-b7fe-4e75864377df" />
 
-### Frontend Web Developer
+### 🎨 Frontend Web Developer
 <p>I am Angel, passionate about frontend development and creating user-friendly digital experiences. I am currently focusing on improving my skills in JavaScript, React, and modern frontend tools. My goal is to grow as a frontend developer, contribute to impactful projects, and continue expanding my knowledge to deliver clean, efficient, and responsive applications.</p>
 
 ### 🔱 Stats:
