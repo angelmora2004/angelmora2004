@@ -4,7 +4,7 @@
 <p>I am Angel, passionate about frontend development and creating user-friendly digital experiences. I am currently focusing on improving my skills in JavaScript, React, and modern frontend tools. My goal is to grow as a frontend developer, contribute to impactful projects, and continue expanding my knowledge to deliver clean, efficient, and responsive applications.</p>
 
 ### 🔱 Stats:
-<img height=500 align="left" src="https://github-readme-stats.vercel.app/api?username=angelmora2004&theme=dracula&show_icons=true\&rank_icon=github&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=angelmora2004&theme=dracula&show_icons=true\&rank_icon=github&hide_border=true" />
 <a align="right" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=angelmora2004&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 
 ---
