@@ -6,10 +6,10 @@
 ### 🔱 Stats:
 <p align="center">
 <a href="https://github.com/angelmora2004">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=angelmora2004&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=E74C3C&icon_color=FF6B6B&text_color=F8F9FA&rank_icon=github&border_radius=15" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=angelmora2004&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=E74C3C&icon_color=FF6B6B&text_color=F8F9FA&rank_icon=github&border_radius=15" />
 </a>
 <a href="https://github.com/angelmora2004">
-<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=angelmora2004&hide_border=true&background=1a1a1a&stroke=E74C3C&ring=FF6B6B&fire=FF4757&currStreakLabel=E74C3C&sideLabels=F8F9FA&currStreakNum=FFFFFF&sideNums=F8F9FA&border_radius=15" alt="GitHub Streak" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=angelmora2004&hide_border=true&background=1a1a1a&stroke=E74C3C&ring=FF6B6B&fire=FF4757&currStreakLabel=E74C3C&sideLabels=F8F9FA&currStreakNum=FFFFFF&sideNums=F8F9FA&border_radius=15" alt="GitHub Streak" />
 </a>
 </p>
 <div align="center">
